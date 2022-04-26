@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MapboxAndroidAuto</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiZnJhbWVsLTAiLCJhIjoiY2wxcW1tdml3MGt4YzNkb2FsNHRpbHdtZCJ9.2dTTp_PG_xJwt5UDoQEI7Q</string>
+
+    <string name="car_search_no_results">No results</string>
+    <string name="car_search_unknown_current_location">Unknown current location</string>
+    <string name="car_search_unknown_search_location">Unknown search location</string>
+    <string name="car_label_ok">OK</string>
+</resources>
